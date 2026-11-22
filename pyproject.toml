@@ -7,7 +7,7 @@ name = "toy-diffusion"
 version = "0.1.0"
 description = "DDPM and DDIM diffusion models on 2-D data in NumPy"
 authors = [{ name = "Ankit Pawar" }]
-license = { text = "MIT" }
+license = { text = "Proprietary. All rights reserved; see LICENSE." }
 requires-python = ">=3.10"
 dependencies = ["numpy>=1.24"]
 

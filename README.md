@@ -131,4 +131,10 @@ pip install matplotlib && python scripts/figures.py
 
 ## License
 
-MIT
+Copyright (c) 2026 Ankit Pawar. All Rights Reserved.
+
+This repository is public so that the work can be read and evaluated, but it is not open source. Using, copying, modifying, redistributing or commercially exploiting any part of it requires prior written permission. This does not affect what applicable law allows without permission, or viewing and forking the repository on GitHub under GitHub's Terms of Service. The full terms are in [LICENSE](LICENSE).
+
+Commits up to and including `717fe66` were released under the MIT License, and copies obtained under those terms keep them.
+
+For licensing or collaboration, email ankitpawar0007x@gmail.com or visit [ankitinorbit.com](https://ankitinorbit.com).
